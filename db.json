@@ -1,6 +1,6 @@
 {
-  [
-    'corgis-data_source_panel',
-    'corgis-properties_panel',
-  ]
+   "corgis":[
+      "corgis-data_source_panel",
+      "corgis-properties_panel"
+   ]
 }
