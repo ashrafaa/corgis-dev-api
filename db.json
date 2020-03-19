@@ -1,6 +1,11 @@
 {
-   "corgis":[
+   "TFSE":[
       "corgis-data_source_panel",
-      "corgis-properties_panel"
-   ]
+      "corgis-properties_panel",
+      "corgis-saved_maps_panel",
+   ],
+   "TfW":[
+      "corgis-data_source_panel",
+      "corgis-corp_data",
+   ],
 }
