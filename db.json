@@ -8,6 +8,7 @@
    "TfW":[
       "CORGIS-DATA_SOURCES_PANEL",
       "CORGIS-CORP_DATA",
-      "CORGIS-ISOCHRONE"
+      "CORGIS-ISOCHRONE",
+      "CORGIS-SIDEBAR_PANEL"
    ]
 }
