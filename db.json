@@ -22,7 +22,7 @@
       },
       {
          "id":"CORGIS-FLOATING_PANEL",
-         "state":"OFF"
+         "state":"ON"
       },
       {
          "id":"CORGIS-ISOCHRONE",
@@ -68,7 +68,7 @@
       },
       {
          "id":"CORGIS-CORP_DATA",
-         "state":"OFF"
+         "state":"ON"
       },
       {
          "id":"CORGIS-DATA_SOURCES_PANEL",
@@ -112,7 +112,7 @@
       },
       {
          "id":"CORGIS-TEAM_DATA",
-         "state":"OFF"
+         "state":"ON"
       }
    ],
    "SC":[
@@ -122,11 +122,11 @@
       },
       {
          "id":"CORGIS-AUTH_USER_PANEL",
-         "state":"OFF"
+         "state":"ON"
       },
       {
          "id":"CORGIS-CORP_DATA",
-         "state":"OFF"
+         "state":"ON"
       },
       {
          "id":"CORGIS-DATA_SOURCES_PANEL",
@@ -134,7 +134,7 @@
       },
       {
          "id":"CORGIS-EXPORT",
-         "state":"OFF"
+         "state":"ON"
       },
       {
          "id":"CORGIS-FLOATING_PANEL",
@@ -146,7 +146,7 @@
       },
       {
          "id":"CORGIS-LAYER_PANEL",
-         "state":"OFF"
+         "state":"ON"
       },
       {
          "id":"CORGIS-LEGEND_PANEL",
@@ -170,7 +170,7 @@
       },
       {
          "id":"CORGIS-TEAM_DATA",
-         "state":"OFF"
+         "state":"ON"
       }
    ]
 }
