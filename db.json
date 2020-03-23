@@ -114,5 +114,63 @@
          "id":"CORGIS-TEAM_DATA",
          "state":"OFF"
       }
+   ],
+      "SC":[
+      {
+         "id":"CORGIS-ATTACHMENT",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-AUTH_USER_PANEL",
+         "state":"OFF"
+      },
+      {
+         "id":"CORGIS-CORP_DATA",
+         "state":"OFF"
+      },
+      {
+         "id":"CORGIS-DATA_SOURCES_PANEL",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-EXPORT",
+         "state":"OFF"
+      },
+      {
+         "id":"CORGIS-FLOATING_PANEL",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-ISOCHRONE",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-LAYER_PANEL",
+         "state":"OFF"
+      },
+      {
+         "id":"CORGIS-LEGEND_PANEL",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-PROPERTIES_PANEL",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-SAVED_MAPS",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-SIDEBAR_PANEL",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-SWITCH_TEAMS",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-TEAM_DATA",
+         "state":"OFF"
+      }
    ]
 }
