@@ -111,6 +111,14 @@
          "state":"ON"
       },
       {
+         "id":"CORGIS-MAP_GEOLOCATE",
+         "state":"ON"
+      },
+      {
+         "id":"CORGIS-MAP_GEOCODER",
+         "state":"ON"
+      },
+      {
          "id":"CORGIS-TEAM_DATA",
          "state":"OFF"
       }
@@ -174,11 +182,11 @@
       },
       {
          "id":"CORGIS-MAP_NAVIGATION",
-         "state":"OFF"
+         "state":"ON"
       },
       {
          "id":"CORGIS-MAP_SCALEBAR",
-         "state":"OFF"
+         "state":"ON"
       }
    ]
 }
