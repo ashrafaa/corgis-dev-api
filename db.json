@@ -171,6 +171,14 @@
       {
          "id":"CORGIS-TEAM_DATA",
          "state":"ON"
+      },
+      {
+         "id":"CORGIS-MAP_NAVIGATION",
+         "state":"OFF"
+      },
+      {
+         "id":"CORGIS-MAP_SCALEBAR",
+         "state":"OFF"
       }
    ]
 }
