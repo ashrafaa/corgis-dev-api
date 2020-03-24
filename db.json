@@ -10,7 +10,7 @@
       },
       {
          "id":"CORGIS-CORP_DATA",
-         "state":"ON"
+         "state":"OFF"
       },
       {
          "id":"CORGIS-DATA_SOURCES_PANEL",
@@ -76,7 +76,7 @@
       },
       {
          "id":"CORGIS-EXPORT",
-         "state":"ON"
+         "state":"OFF"
       },
       {
          "id":"CORGIS-FLOATING_PANEL",
@@ -100,7 +100,7 @@
       },
       {
          "id":"CORGIS-SAVED_MAPS",
-         "state":"ON"
+         "state":"OFF"
       },
       {
          "id":"CORGIS-SIDEBAR_PANEL",
@@ -112,7 +112,7 @@
       },
       {
          "id":"CORGIS-TEAM_DATA",
-         "state":"ON"
+         "state":"OFF"
       }
    ],
    "SC":[
@@ -122,7 +122,7 @@
       },
       {
          "id":"CORGIS-AUTH_USER_PANEL",
-         "state":"ON"
+         "state":"OFF"
       },
       {
          "id":"CORGIS-CORP_DATA",
@@ -146,7 +146,7 @@
       },
       {
          "id":"CORGIS-LAYER_PANEL",
-         "state":"ON"
+         "state":"OFF"
       },
       {
          "id":"CORGIS-LEGEND_PANEL",
